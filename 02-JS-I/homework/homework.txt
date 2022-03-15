@@ -1,0 +1,13 @@
+variables: son objetos utilizados para guadar cualquier tipo de informacion, ya sea un
+string, un numero, una funcion etc.. 
+
+String: son las palabras que no estan definidas dentro del programa y 
+principalmente estan delimitadas por comillas.
+
+Funciones: es la agrupacion de codigos o variables que se pueden utilizar muchas veces.
+
+declaraciones: es la condicion que se coloca a una funcion para que dependiendo de
+la respuesta genere el codigo necesario.
+
+Valores booleanos: se utilizan cuando solo hay dos respuestas; si o no, activar o desactivar,
+verdadero o falso.
