@@ -1,0 +1,12 @@
+For: Es una funcion con la cual podemos mostrar cierta cantidad de datos con un solo codigo,
+colocando una variable con la cual inicia, segundo, el limite hasta donde queremos que llegue
+y por ultimo como queremos que vaya incrementando la variable.
+
+&&: se utiliza para generar dos opciones que se deben cumplir en una condicion para que sea 
+verdadera o falsa. Funciona como un "Y" o un "AND".
+
+||: son dos opciones en las cuales solo se debe cumplir una de ellas para que genere una 
+condicion veradera o falsa.Funciona como un "o" o un "or".
+
+!: funciona como un opuesto a la respuesta generada por un codigo. funciona como un "NO" 
+o un "NOT" 
