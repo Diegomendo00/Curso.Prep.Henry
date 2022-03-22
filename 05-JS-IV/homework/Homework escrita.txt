@@ -1,0 +1,14 @@
+objetos: Es un tipo de lista en la cual se puede agregar mucha mas informacion
+relacionada con los elementos que se encuentren dentro.
+
+propiedades: las propiedades son las opciones en las cuales se va a registrar la 
+informacion que va a tener cada elemento.
+
+metodos: es una funcion que se realiza dentro de un objeto
+
+bucle for..in: muestra toda la informacion que se encuentra dentro de un objeto o array
+
+notacion de puntos vs notacion de corchetes:con la notacion de puntos solo muestra la
+informacion que ya esta escrita dentro de un objeto y es una manera mucho mas rapida para
+visualizar dicha informacion,y con la notacion de corchetes se puede modificar directamente 
+esta informacion sin embargo es un proceso un poco mas largo.
