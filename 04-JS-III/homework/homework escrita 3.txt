@@ -1,0 +1,2 @@
+Arrays: son listas de elementos en los cuales se pueden ingresar cualquier tipo de datos
+ya sea numerico, string, booelano etc.. siempre van dentro de brackets, no corchetes.
