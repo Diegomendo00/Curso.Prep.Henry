@@ -1,0 +1,6 @@
+Prototype: es un codigo con la cual podemos agregar una nueva funcion de manera
+mas rapida y sencilla la cual funcionara para todos lo elementos que 
+sean agregados o esten dentro de una clase.
+
+Constructors: se utilizan para crear nuevas Clases, colocando objetos o lista de 
+elementos que se encontraran dentro.
