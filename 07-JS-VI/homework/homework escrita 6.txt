@@ -1,0 +1,2 @@
+funciones callbacks:es aquella funcion que es pasada como argumento a otra función para que 
+sea "llamada de nuevo" (call back) en un momento posterior.
