@@ -112,5 +112,19 @@
 	<li type="circle">Ciclismo</li>
 	<li type="circle">Cocinar</li>
 </div>
+<div>
+<h1>Expectativas</h1>
+<p>El principal motivo por el cual me incline a estudiar esta carrera es por que el campo
+de accion dentro del ambito laboral a aumentado de manera exponencial, otorgando mayores 
+oprtunidades de empleo, tambien es un tema que me ha llamado la atencion desde hace algunos
+años pero no habia tenido una opcion como la que brindan en esta academia, la cual trataré
+de aprovechar al maximo si se logra superar la etapa de preparación.
+Mis expectativas hacia el curso son muy altas ya que tengo compañeros que se desempeñan en
+este tema y tengo muy buenas referencias hacia este, senti que solo el curso de preparación 
+contaba con una información muy importante y creo que de aquí en adelante sera mucho mejor.
+finalmente tambien esta el tema económico ya que en estos momentos mi profesión como ingeniero
+industrial no se encuentra muy bien remunerada, por lo cual opte en ampliar mi hoja de vida
+y mis conocimientos hacia el tema tecnológico y espero que con este curso pueda cumplir 
+estos objetivos de la mejor manera posible. 
 </body>
 
